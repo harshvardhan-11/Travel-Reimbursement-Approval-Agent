@@ -1,0 +1,25 @@
+# Environment & Secrets
+.env
+*.env
+
+# Internal Task / Planning Documentation
+design.md
+requirements.md
+task.md
+
+# Assignment Reference Materials
+*.pdf
+GenAI_Developer_Candidate_Assignment_Travel_Reimbursement_.pdf
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
